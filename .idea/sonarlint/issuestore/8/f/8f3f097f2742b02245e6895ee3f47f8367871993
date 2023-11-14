@@ -1,7 +1,7 @@
 
 q
-java:S2095,"OUse try-with-resources or close this "GLFWErrorCallback" in a "finally" clause.(àâç”ûÿÿÿÿ8áã™Õ¼1
+java:S20955"OUse try-with-resources or close this "GLFWErrorCallback" in a "finally" clause.(àâç”ûÿÿÿÿ8µŞõ¼1
 A
-java:S1659"$Declare "height" on a separate line.(ô…ğ­8âã™Õ¼1
+java:S1659"$Declare "height" on a separate line.(ô…ğ­8µŞõ¼1
 »
-java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(£±×Øüÿÿÿÿ8ãã™Õ¼1
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(£±×Øüÿÿÿÿ8µŞõ¼1
