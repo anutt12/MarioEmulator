@@ -13,8 +13,6 @@ A
 java:S1659"$Declare "height" on a separate line.(ô…ğ­8šº›€½1
 [
 java:S1659">Declare "g" and all following declarations on a separate line.(ÀÕŞİ8šº›€½1
-w
-java:S1450"ZRemove the "fadeToBlack" field and declare it as a local variable in the relevant methods.(ãÁ³8šº›€½1
 »
 java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(£±×Øüÿÿÿÿ8šº›€½1
 J
@@ -23,5 +21,6 @@ java:S4274,"(Replace this assert with a proper check.(èÖ¨ùÿÿÿÿ8›º›€½1
 X
 java:S1854|";Remove this useless assignment to local variable "endTime".(ÂÈ•·8º¡†½1
 Y	java:S125Š"<This block of commented-out lines of code should be removed.(Š‹‡–8 º›€½1
+Y	java:S125"<This block of commented-out lines of code should be removed.(…ì¸ƒ8½Š¨½1
 L
 java:S1068"/Remove this unused "fadeToBlack" private field.(ãÁ³8¡º›€½1

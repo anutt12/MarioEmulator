@@ -141,9 +141,9 @@ public class Window {
 //                b = Math.max(b - 0.01f, 0);
 //            }
 
-            if (KeyListener.isKeyPressed(GLFW_KEY_SPACE)) {
-                fadeToBlack = true;
-            }
+//            if (KeyListener.isKeyPressed(GLFW_KEY_SPACE)) {
+//                fadeToBlack = true;
+//            }
 
             glfwSwapBuffers(glfwWindow);
 
