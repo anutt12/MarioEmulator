@@ -1,3 +1,17 @@
 
+£
+java:S1186Z"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿ»ù€ÿÿÿÿÿ8®Û‘Ç½1
+
+java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûÅ¼,8®Û‘Ç½1
+d
+java:S1659"GDeclare "fragmentID" and all following declarations on a separate line.(œ“¢Ï8®Û‘Ç½1
 v
-java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÄÅÑáüÿÿÿÿ8İİ·½1
+java:S1450"YRemove the "fragmentID" field and declare it as a local variable in the relevant methods.(œ“¢Ï8¯Û‘Ç½1
+y
+java:S1450"\Remove the "shaderProgram" field and declare it as a local variable in the relevant methods.(œ“¢Ï8¯Û‘Ç½1
+t
+java:S1450"WRemove the "vertexID" field and declare it as a local variable in the relevant methods.(œ“¢Ï8¯Û‘Ç½1
+T
+java:S6126"2Replace this String concatenation with Text block.(ÃÂ÷ñÿÿÿÿÿ8±Û‘Ç½1
+O
+java:S6126"2Replace this String concatenation with Text block.(¢ıÙÑ8±Û‘Ç½1
