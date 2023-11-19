@@ -25,3 +25,5 @@ K
 assets/shaders/default.glsl,1/c/1c052c424389a5e5e23d6b8cb8b07e89d2341ffd
 R
 "src/main/java/renderer/Shader.java,9/c/9c472e4739a87980e6e1c8f0a8e8fb305bb033fb
+N
+src/main/java/jade/Camera.java,d/1/d129d7f80b598f0f38a128e7d41ef64651a424d7
