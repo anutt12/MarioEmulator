@@ -1,21 +1,27 @@
 
+c
+java:S2184e"FCast one of the operands of this multiplication operation to a "long".(‚ä‡8§ÅÖÈ¾1
+
+java:S1186;"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûÅ¼,8­ÅÖÈ¾1
 d
-java:S2184’"FCast one of the operands of this multiplication operation to a "long".(‚ä‡8ç¸°È½1
-d
-java:S1659#"GDeclare "fragmentID" and all following declarations on a separate line.(œ“¢Ï8ï¸°È½1
+java:S1659#"GDeclare "fragmentID" and all following declarations on a separate line.(œ“¢Ï8­ÅÖÈ¾1
 _
-java:S16598"BDeclare "vboID" and all following declarations on a separate line.(Îóøî8ï¸°È½1
+java:S16598"BDeclare "vboID" and all following declarations on a separate line.(Îóøî8­ÅÖÈ¾1
 q
-java:S14508"TRemove the "eboID" field and declare it as a local variable in the relevant methods.(Îóøî8ğ¸°È½1
-v
-java:S1450#"YRemove the "fragmentID" field and declare it as a local variable in the relevant methods.(œ“¢Ï8ğ¸°È½1
+java:S14508"TRemove the "eboID" field and declare it as a local variable in the relevant methods.(Îóøî8®ÅÖÈ¾1
 q
-java:S14508"TRemove the "vboID" field and declare it as a local variable in the relevant methods.(Îóøî8ğ¸°È½1
-t
-java:S1450#"WRemove the "vertexID" field and declare it as a local variable in the relevant methods.(œ“¢Ï8ğ¸°È½1
+java:S14508"TRemove the "vboID" field and declare it as a local variable in the relevant methods.(Îóøî8®ÅÖÈ¾1
 T
-java:S6126"2Replace this String concatenation with Text block.(ÃÂ÷ñÿÿÿÿÿ8ñ¸°È½1
+java:S6126"2Replace this String concatenation with Text block.(ÃÂ÷ñÿÿÿÿÿ8®ÅÖÈ¾1
 O
-java:S6126"2Replace this String concatenation with Text block.(¢ıÙÑ8ñ¸°È½1
-Q
-java:S1481;"/Remove this unused "testShader" local variable.(×‘æÍÿÿÿÿÿ8ĞÕ‡Ê½1
+java:S6126"2Replace this String concatenation with Text block.(¢ıÙÑ8¯ÅÖÈ¾1
+U
+java:S1068"3Remove this unused "vertexShaderSrc" private field.(ÃÂ÷ñÿÿÿÿÿ8²ÅÖÈ¾1
+R
+java:S1068"5Remove this unused "fragmentShaderSrc" private field.(¢ıÙÑ8²ÅÖÈ¾1
+I
+java:S1068#",Remove this unused "vertexID" private field.(œ“¢Ï8²ÅÖÈ¾1
+K
+java:S1068#".Remove this unused "fragmentID" private field.(œ“¢Ï8²ÅÖÈ¾1
+N
+java:S1068#"1Remove this unused "shaderProgram" private field.(œ“¢Ï8²ÅÖÈ¾1
