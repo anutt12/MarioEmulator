@@ -1,6 +1,7 @@
 package jade;
 
 import org.lwjgl.BufferUtils;
+import renderer.Shader;
 
 import java.nio.FloatBuffer;
 import java.nio.IntBuffer;
@@ -42,12 +43,12 @@ public class LevelEditorScene extends Scene {
 
     // IMPORTANT: Must be in counter-clockwise order
     private int[] elementArray = {
-        /*
-              *        *
+            /*
+                  *        *
 
 
-              *        *
-         */
+                  *        *
+             */
             2, 1, 0, // Top right triangle
             0, 1, 3  // Bottom left triangle
     };
@@ -55,7 +56,7 @@ public class LevelEditorScene extends Scene {
     private int vaoID, vboID, eboID;
 
     public LevelEditorScene() {
-
+        Shader testShader = new Shader("assets/shaders/default.glsl");
     }
 
     @Override
