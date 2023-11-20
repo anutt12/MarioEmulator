@@ -29,3 +29,13 @@ N
 src/main/java/jade/Camera.java,d/1/d129d7f80b598f0f38a128e7d41ef64651a424d7
 S
 #src/main/java/renderer/Texture.java,1/e/1ec62c6a592b1752a452e2ea4f901427276cb852
+R
+"src/main/java/jade/GameObject.java,2/f/2f7db7ef60ca4e4c65b2f66c74b1d9769348b6b6
+Q
+!src/main/java/jade/Component.java,c/1/c17a7510b7fac0999a58b8fa37fc5cab6dadef93
+\
+,src/main/java/Components/SpriteRenderer.java,a/6/a665474f9c34db9d27e23433999639023914a8fe
+\
+,src/main/java/components/SpriteRenderer.java,e/1/e1929a72b22041ac5efdb3b6536b8d4b1e7d517d
+Z
+*src/main/java/components/FontRenderer.java,6/3/63ae67db27aa0bb1617fe5f08c36fad12bc84f03

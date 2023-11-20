@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È‘£®8ëÏùğ¾1
+z
+java:S1450"XRemove the "firstTime" field and declare it as a local variable in the relevant methods.(²Ê¦Üıÿÿÿÿ8ĞÒúğ¾1
+O
+java:S1068"-Remove this unused "firstTime" private field.(²Ê¦Üıÿÿÿÿ8îÏùğ¾1
