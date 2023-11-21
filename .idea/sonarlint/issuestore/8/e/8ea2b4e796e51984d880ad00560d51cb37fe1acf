@@ -1,8 +1,4 @@
 
 
-java:S1186
-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûÅ¼,8¥¡Šœ¿1
-E
-java:S1905"(Remove this unnecessary cast to "float".(Îì•Œ8¨¡Šœ¿1
-E
-java:S1905"(Remove this unnecessary cast to "float".(Š¢¯¸8¨¡Šœ¿1
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûÅ¼,8˜÷ÁŸ¿1
+X	java:S125"<This block of commented-out lines of code should be removed.(İÔş8÷ÁŸ¿1
