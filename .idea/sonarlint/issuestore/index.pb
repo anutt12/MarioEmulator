@@ -39,3 +39,9 @@ Q
 ,src/main/java/components/SpriteRenderer.java,e/1/e1929a72b22041ac5efdb3b6536b8d4b1e7d517d
 Z
 *src/main/java/components/FontRenderer.java,6/3/63ae67db27aa0bb1617fe5f08c36fad12bc84f03
+Q
+!src/main/java/jade/Transform.java,9/b/9b4b03a2e26cc700ce9a392bbd676fdcdc94a36e
+W
+'src/main/java/renderer/RenderBatch.java,4/c/4c4fb263c5de239babd27bc952d3fb8b2291ee74
+T
+$src/main/java/renderer/Renderer.java,8/4/849f5fe61c76349075d39ce276ae5aa708b1c30d

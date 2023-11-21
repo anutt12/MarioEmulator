@@ -1,0 +1,23 @@
+
+h
+java:S21846"FCast one of the operands of this multiplication operation to a "long".(É¥úôùÿÿÿÿ8€¯Âš¿1
+t	java:S116"SRename this field "POS_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á®ÿ¹úÿÿÿÿ8‡¯Âš¿1
+q	java:S116"URename this field "COLOR_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕìÓè8‡¯Âš¿1
+q	java:S116"URename this field "POS_OFFSET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éô„ı8ˆ¯Âš¿1
+s	java:S116"WRename this field "COLOR_OFFSET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½›âŠ8ˆ¯Âš¿1
+r	java:S116"VRename this field "VERTEX_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø…È•8ˆ¯Âš¿1
+x	java:S116"\Rename this field "VERTEX_SIZE_BYTES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôóïñ8ˆ¯Âš¿1
+C
+java:S1170"!Make this final field static too.(á®ÿ¹úÿÿÿÿ8ˆ¯Âš¿1
+>
+java:S1170"!Make this final field static too.(ÕìÓè8ˆ¯Âš¿1
+>
+java:S1170"!Make this final field static too.(éô„ı8ˆ¯Âš¿1
+>
+java:S1170"!Make this final field static too.(½›âŠ8ˆ¯Âš¿1
+>
+java:S1170"!Make this final field static too.(ø…È•8ˆ¯Âš¿1
+>
+java:S1170"!Make this final field static too.(Ôóïñ8ˆ¯Âš¿1
+E
+java:S1659"#Declare "vboID" on a separate line.(¼÷õîúÿÿÿÿ8ˆ¯Âš¿1
