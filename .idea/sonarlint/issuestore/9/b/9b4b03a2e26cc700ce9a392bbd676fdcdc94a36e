@@ -1,5 +1,7 @@
 
 q
-java:S1104"TMake position a static final constant or non-public and provide accessors if needed.(òêÙ¨8Ø­²˜¿1
+java:S1104"TMake position a static final constant or non-public and provide accessors if needed.(òêÙ¨8®èŠìÀ1
 n
-java:S1104"QMake scale a static final constant or non-public and provide accessors if needed.(ËªïÕ8Ø­²˜¿1
+java:S1104"QMake scale a static final constant or non-public and provide accessors if needed.(ËªïÕ8®èŠìÀ1
+r
+java:S1206%"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8³èŠìÀ1
