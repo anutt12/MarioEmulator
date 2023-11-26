@@ -1,36 +1,36 @@
 
 h
-java:S2184@"FCast one of the operands of this multiplication operation to a "long".(É¥úôùÿÿÿÿ8úÓ‹Ÿ¿1
-t	java:S116"SRename this field "POS_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á®ÿ¹úÿÿÿÿ8ƒÔ‹Ÿ¿1
-q	java:S116"URename this field "COLOR_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕìÓè8ƒÔ‹Ÿ¿1
-v	java:S116"ZRename this field "TEX_COORDS_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ÊŸ”8ƒÔ‹Ÿ¿1
-r	java:S116"VRename this field "TEX_ID_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶çÁ¡8ƒÔ‹Ÿ¿1
-q	java:S116"URename this field "POS_OFFSET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éô„ı8ƒÔ‹Ÿ¿1
-s	java:S116"WRename this field "COLOR_OFFSET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½›âŠ8ƒÔ‹Ÿ¿1
-}	java:S116"\Rename this field "TEX_COORDS_OFFSET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëäüÿÿÿÿ8ƒÔ‹Ÿ¿1
-s	java:S116"XRename this field "TEX_ID_OFFSET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¯—{8ƒÔ‹Ÿ¿1
-w	java:S116"VRename this field "VERTEX_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á•¥úÿÿÿÿ8ƒÔ‹Ÿ¿1
-x	java:S116"\Rename this field "VERTEX_SIZE_BYTES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôóïñ8ƒÔ‹Ÿ¿1
+java:S2184@"FCast one of the operands of this multiplication operation to a "long".(É¥úôùÿÿÿÿ8ï¶×çÀ1
+t	java:S116"SRename this field "POS_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á®ÿ¹úÿÿÿÿ8Í·×çÀ1
+q	java:S116"URename this field "COLOR_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕìÓè8Í·×çÀ1
+v	java:S116"ZRename this field "TEX_COORDS_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ÊŸ”8Í·×çÀ1
+r	java:S116"VRename this field "TEX_ID_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶çÁ¡8Í·×çÀ1
+q	java:S116"URename this field "POS_OFFSET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éô„ı8Í·×çÀ1
+s	java:S116"WRename this field "COLOR_OFFSET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½›âŠ8Î·×çÀ1
+}	java:S116"\Rename this field "TEX_COORDS_OFFSET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëäüÿÿÿÿ8Î·×çÀ1
+s	java:S116"XRename this field "TEX_ID_OFFSET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¯—{8Î·×çÀ1
+w	java:S116"VRename this field "VERTEX_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á•¥úÿÿÿÿ8Î·×çÀ1
+x	java:S116"\Rename this field "VERTEX_SIZE_BYTES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôóïñ8Î·×çÀ1
 C
-java:S1170"!Make this final field static too.(á®ÿ¹úÿÿÿÿ8ƒÔ‹Ÿ¿1
+java:S1170"!Make this final field static too.(á®ÿ¹úÿÿÿÿ8Î·×çÀ1
 >
-java:S1170"!Make this final field static too.(ÕìÓè8ƒÔ‹Ÿ¿1
+java:S1170"!Make this final field static too.(ÕìÓè8Î·×çÀ1
 >
-java:S1170"!Make this final field static too.(†ÊŸ”8ƒÔ‹Ÿ¿1
+java:S1170"!Make this final field static too.(†ÊŸ”8Î·×çÀ1
 >
-java:S1170"!Make this final field static too.(¶çÁ¡8ƒÔ‹Ÿ¿1
+java:S1170"!Make this final field static too.(¶çÁ¡8Î·×çÀ1
 >
-java:S1170"!Make this final field static too.(éô„ı8ƒÔ‹Ÿ¿1
+java:S1170"!Make this final field static too.(éô„ı8Î·×çÀ1
 >
-java:S1170"!Make this final field static too.(½›âŠ8ƒÔ‹Ÿ¿1
+java:S1170"!Make this final field static too.(½›âŠ8Î·×çÀ1
 C
-java:S1170"!Make this final field static too.(ëäüÿÿÿÿ8ƒÔ‹Ÿ¿1
+java:S1170"!Make this final field static too.(ëäüÿÿÿÿ8Î·×çÀ1
 =
-java:S1170"!Make this final field static too.(¾¯—{8ƒÔ‹Ÿ¿1
+java:S1170"!Make this final field static too.(¾¯—{8Î·×çÀ1
 C
-java:S1170"!Make this final field static too.(á•¥úÿÿÿÿ8ƒÔ‹Ÿ¿1
+java:S1170"!Make this final field static too.(á•¥úÿÿÿÿ8Î·×çÀ1
 >
-java:S1170"!Make this final field static too.(Ôóïñ8ƒÔ‹Ÿ¿1
+java:S1170"!Make this final field static too.(Ôóïñ8Î·×çÀ1
 E
-java:S1659&"#Declare "vboID" on a separate line.(¼÷õîúÿÿÿÿ8ƒÔ‹Ÿ¿1
-]	java:S125"<This block of commented-out lines of code should be removed.(¢ÑÉÂşÿÿÿÿ8„Ô‹Ÿ¿1
+java:S1659&"#Declare "vboID" on a separate line.(¼÷õîúÿÿÿÿ8Ï·×çÀ1
+]	java:S125"<This block of commented-out lines of code should be removed.(¢ÑÉÂşÿÿÿÿ8Ñ·×çÀ1

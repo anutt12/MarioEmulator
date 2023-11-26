@@ -52,7 +52,7 @@ public class Shader {
             }
         } catch (IOException e) {
             e.printStackTrace();
-            assert false : "Error: Could not open file for shader: '" + filepath + "'";
+            throw new AssertionError("Error: Could not open file for shader: '" + filepath + "'");
         }
 
         System.out.println(vertexSource);

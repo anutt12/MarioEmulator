@@ -1,6 +1,6 @@
 
 u	java:S116
-"YRename this field "MAX_BATCH_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìµ˜Þ8ß½ºš¿1
+"YRename this field "MAX_BATCH_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìµ˜Þ8û‚âçÀ1
 >
 java:S1170
-"!Make this final field static too.(Ìµ˜Þ8ß½ºš¿1
+"!Make this final field static too.(Ìµ˜Þ8û‚âçÀ1

@@ -43,8 +43,7 @@ public class Window {
                 currentScene.start();
                 break;
             default:
-                assert false : "Unknown scene '" + newScene + "'";
-                break;
+                throw new AssertionError("Unknown scene '" + newScene + "'");
         }
     }
 

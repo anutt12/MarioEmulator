@@ -1,5 +1,9 @@
 
-J
-java:S42742"(Replace this assert with a proper check.(¹ŒüÇşÿÿÿÿ8…ößŸ¿1
+E
+java:S1659"#Declare "width" on a separate line.(ñŞ÷ùÿÿÿÿ8ê»èÀ1
+V
+java:S1117""9Rename "width" which hides the field declared at line 15.(¨ø¦È8ƒê»èÀ1
+W
+java:S1117#":Rename "height" which hides the field declared at line 15.(ÄŠ»¡8ƒê»èÀ1
 N
-java:S1068",Remove this unused "filepath" private field.(–îŸˆúÿÿÿÿ8ˆößŸ¿1
+java:S1068",Remove this unused "filepath" private field.(–îŸˆúÿÿÿÿ8…ê»èÀ1

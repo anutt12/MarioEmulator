@@ -1,7 +1,0 @@
-
-s
-java:S1104"WMake timeStarted a static final constant or non-public and provide accessors if needed.(‹ÆÂY8Ú£Àÿ¼1
-M
-java:S1444"1Make this "public static timeStarted" field final(‹ÆÂY8Û£Àÿ¼1
-\
-java:S1118":Add a private constructor to hide the implicit public one.(Æ¹îúûÿÿÿÿ8Þ£Àÿ¼1
