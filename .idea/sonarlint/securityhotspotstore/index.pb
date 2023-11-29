@@ -49,3 +49,12 @@ T
 $src/main/java/components/Sprite.java,1/d/1df064889c0217a5d25acaa0279d805fcf01732e
 Y
 )src/main/java/components/SpriteSheet.java,4/3/43bec62726e9587170dab1f4e57a44e167a590b1
+A
+gradle.properties,2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4
+R
+"src/main/java/jade/ImGuiLayer.java,1/1/11f077f1fd071f505cfe8c65b60a94824906f863
+A
+config.properties,5/b/5b4197fb87e6e5ff44afbf358a3bd23a35f56456
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
