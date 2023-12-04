@@ -62,3 +62,7 @@ X
 (src/main/java/editor/GameViewWindow.java,d/0/d0f963fe6e3e926db716bd524a29a85eea197a71
 W
 'src/main/java/components/RigidBody.java,8/3/83f2b1b8d5baa5574bc2088246063afa430381c5
+]
+-src/main/java/jade/ComponentDeserializer.java,2/c/2c17fd0f6daf48dbb3478ed9dcee39b44fbb7cf5
+^
+.src/main/java/jade/GameObjectDeserializer.java,6/4/643ffd8f4303f893c55a5455c7902f65a1884349
