@@ -1,5 +1,7 @@
 package jade;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import components.Sprite;
 import components.SpriteRenderer;
 import components.SpriteSheet;
@@ -28,15 +30,28 @@ public class LevelEditorScene extends Scene {
 
         obj1 = new GameObject("Object 1",
                 new Transform(new Vector2f(200, 100), new Vector2f(256, 256)), 2);
-        obj1.addComponent(new SpriteRenderer(new Vector4f(1, 0, 0, 1)));
+        SpriteRenderer obj1Sprite = new SpriteRenderer();
+        obj1Sprite.setColor(new Vector4f(1, 0, 0, 1));
+        obj1.addComponent(obj1Sprite);
         this.addGameObjectToScene(obj1);
         this.activeGameObject = obj1;
 
         obj2 = new GameObject("Object 2",
                 new Transform(new Vector2f(400, 100), new Vector2f(256, 256)), 2);
-        obj2.addComponent(new SpriteRenderer(new Sprite
-                (AssetPool.getTexture("assets/images/blendImage2.png"))));
+        SpriteRenderer obj2SpriteRenderer = new SpriteRenderer();
+        Sprite obj2Sprite = new Sprite();
+        obj2Sprite.setTexture(AssetPool.getTexture("assets/images/blendImage2.png"));
+        obj2SpriteRenderer.setSprite(obj2Sprite);
+        obj2.addComponent(obj2SpriteRenderer);
         this.addGameObjectToScene(obj2);
+
+        Gson gson = new GsonBuilder()
+                .setPrettyPrinting()
+                .create();
+        String serialized = gson.toJson(obj1);
+        GameObject obj = gson.fromJson(serialized, GameObject.class);
+
+        System.out.println(gson.toJson(obj));
 
 //        int xOffset = 10;
 //        int yOffset = 10;

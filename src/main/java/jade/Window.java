@@ -4,6 +4,8 @@ import org.lwjgl.Version;
 import org.lwjgl.glfw.GLFWErrorCallback;
 import org.lwjgl.opengl.GL;
 
+import java.io.IOException;
+
 import static org.lwjgl.glfw.Callbacks.glfwFreeCallbacks;
 import static org.lwjgl.glfw.GLFW.*;
 import static org.lwjgl.opengl.GL11.*;
@@ -74,7 +76,7 @@ public class Window {
         glfwSetErrorCallback(null).free();
     }
 
-    public void init() {
+    public void init() throws IOException {
         // Setup an error callback
         GLFWErrorCallback.createPrint(System.err).set();
 

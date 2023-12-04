@@ -13,7 +13,6 @@ import imgui.type.ImBoolean;
 import java.awt.*;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 
@@ -35,7 +34,7 @@ public class ImGuiLayer {
     private MenuBar menuBar;
     private SceneHierarchyWindow sceneHeirarchyWindow;
 
-    public ImGuiLayer(long glfwWindow, PickingTexture pickingTexture) {
+    public ImGuiLayer(long glfwWindow) {
         this.glfwWindow = glfwWindow;
         this.gameViewWindow = new GameViewWindow();
         this.propertiesWindow = new PropertiesWindow(pickingTexture);

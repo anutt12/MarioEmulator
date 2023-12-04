@@ -1,9 +1,12 @@
 
 E
 java:S1659"#Declare "width" on a separate line.(ñŞ÷ùÿÿÿÿ8ê»èÀ1
+y
+java:S1450"WRemove the "filepath" field and declare it as a local variable in the relevant methods.(–îŸˆúÿÿÿÿ8¤¢û°Ã1
+]	java:S125"<This block of commented-out lines of code should be removed.(’æôäùÿÿÿÿ8Ì€ü°Ã1
 V
-java:S1117""9Rename "width" which hides the field declared at line 15.(¨ø¦È8ƒê»èÀ1
+java:S1117&"9Rename "width" which hides the field declared at line 15.(¨ø¦È8˜€ú°Ã1
 W
-java:S1117#":Rename "height" which hides the field declared at line 15.(ÄŠ»¡8ƒê»èÀ1
+java:S1117'":Rename "height" which hides the field declared at line 15.(ÄŠ»¡8™€ú°Ã1
 N
-java:S1068",Remove this unused "filepath" private field.(–îŸˆúÿÿÿÿ8…ê»èÀ1
+java:S1068",Remove this unused "filepath" private field.(–îŸˆúÿÿÿÿ8©¢û°Ã1

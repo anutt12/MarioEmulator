@@ -58,3 +58,7 @@ A
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+X
+(src/main/java/editor/GameViewWindow.java,d/0/d0f963fe6e3e926db716bd524a29a85eea197a71
+W
+'src/main/java/components/RigidBody.java,8/3/83f2b1b8d5baa5574bc2088246063afa430381c5

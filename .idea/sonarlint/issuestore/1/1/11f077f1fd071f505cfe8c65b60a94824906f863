@@ -1,12 +1,12 @@
 
 k
-java:S2095’"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(€ªµ¾8Ò£ŒãÁ1
+java:S2095‘"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(€ªµ¾8Ò£ŒãÁ1
 t
-java:S37763"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ù¹ÊÁÿÿÿÿÿ8ÛŒáÁ1
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ù¹ÊÁÿÿÿÿÿ8ÛŒáÁ1
 d
-java:S1075¡"ARefactor your code to get this URI from a customizable parameter.(âÅÄ­şÿÿÿÿ8ö©°âÁ1
-Y	java:S125¾"<This block of commented-out lines of code should be removed.(²‚ÇÑ8‘ŒáÁ1
+java:S1075 "ARefactor your code to get this URI from a customizable parameter.(âÅÄ­şÿÿÿÿ8ö©°âÁ1
+Y	java:S125½"<This block of commented-out lines of code should be removed.(²‚ÇÑ8‘ŒáÁ1
 N
-java:S1172Æ"0Remove this unused method parameter "deltaTime".(…Ğ²†8…‘ŒáÁ1
+java:S1172Å"0Remove this unused method parameter "deltaTime".(…Ğ²†8…‘ŒáÁ1
 T
-java:S1144İ"1Remove this unused private "destroyImGui" method.(Í©äÛøÿÿÿÿ8Œ‘ŒáÁ1
+java:S1144Ü"1Remove this unused private "destroyImGui" method.(Í©äÛøÿÿÿÿ8Œ‘ŒáÁ1

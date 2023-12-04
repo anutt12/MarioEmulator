@@ -3,7 +3,7 @@ plugins {
 }
 
 group = 'org.example'
-version = '1.0-SNAPSHOT'
+version = '1.86.10'
 
 //java {
 //    sourceCompatibility = JavaVersion.VERSION_17
@@ -18,8 +18,8 @@ repositories {
 //}
 
 dependencies {
-    testImplementation platform('org.junit:junit-bom:5.9.1')
-    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testImplementation platform('org.junit:junit-bom:5.9.2')
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.9.2'
 }
 
 project.ext.lwjglVersion = "3.3.3"
@@ -28,10 +28,12 @@ project.ext.lwjglNatives = "natives-macos-arm64"
 project.ext.imguiVersion = "1.86.11"
 
 dependencies {
+    implementation 'com.google.code.gson:gson:2.10.1'
     // ImGUI
-    implementation "io.github.spair:imgui-java-binding:$imguiVersion"
-    implementation "io.github.spair:imgui-java-lwjgl3:$imguiVersion"
+    implementation "io.github.spair:imgui-java-binding:1.86.10"
+    implementation "io.github.spair:imgui-java-lwjgl3:1.86.10"
     implementation "io.github.spair:imgui-java-app:${version}"
+    implementation 'io.github.spair:imgui-java-app:1.86.10'
 
     // Include all available natives, but it's likely that you want something specific
 //    runtimeOnly "io.imgui.java:natives-windows:$imguiVersion"
@@ -42,23 +44,23 @@ dependencies {
     runtimeOnly "io.imgui.java:natives-macos-arm64-ft:$imguiVersion"
 
     // LWJGL
-    implementation platform("org.lwjgl:lwjgl-bom:$lwjglVersion")
+    implementation platform("org.lwjgl:lwjgl-bom:3.3.1")
 
-    implementation "org.lwjgl:lwjgl"
-    implementation "org.lwjgl:lwjgl-assimp"
-    implementation "org.lwjgl:lwjgl-glfw"
-    implementation "org.lwjgl:lwjgl-nfd"
-    implementation "org.lwjgl:lwjgl-openal"
-    implementation "org.lwjgl:lwjgl-opengl"
-    implementation "org.lwjgl:lwjgl-stb"
-    runtimeOnly "org.lwjgl:lwjgl::$lwjglNatives"
-    runtimeOnly "org.lwjgl:lwjgl-assimp::$lwjglNatives"
-    runtimeOnly "org.lwjgl:lwjgl-glfw::$lwjglNatives"
-    runtimeOnly "org.lwjgl:lwjgl-nfd::$lwjglNatives"
-    runtimeOnly "org.lwjgl:lwjgl-openal::$lwjglNatives"
-    runtimeOnly "org.lwjgl:lwjgl-opengl::$lwjglNatives"
-    runtimeOnly "org.lwjgl:lwjgl-stb::$lwjglNatives"
-    implementation "org.joml:joml:${jomlVersion}"
+    implementation 'org.lwjgl:lwjgl:3.3.1'
+    implementation 'org.lwjgl:lwjgl-assimp:3.3.1'
+    implementation 'org.lwjgl:lwjgl-glfw:3.3.1'
+    implementation 'org.lwjgl:lwjgl-nfd:3.3.1'
+    implementation 'org.lwjgl:lwjgl-openal:3.3.1'
+    implementation 'org.lwjgl:lwjgl-opengl:3.3.1'
+    implementation 'org.lwjgl:lwjgl-stb:3.3.1'
+    runtimeOnly "org.lwjgl:lwjgl:3.3.1"
+    runtimeOnly "org.lwjgl:lwjgl-assimp:3.3.1"
+    runtimeOnly "org.lwjgl:lwjgl-glfw:3.3.1"
+    runtimeOnly "org.lwjgl:lwjgl-nfd:3.3.1"
+    runtimeOnly "org.lwjgl:lwjgl-openal:3.3.1"
+    runtimeOnly "org.lwjgl:lwjgl-opengl:3.3.1"
+    runtimeOnly "org.lwjgl:lwjgl-stb:3.3.1"
+    implementation "org.joml:joml:1.10.5"
 }
 
 test {
