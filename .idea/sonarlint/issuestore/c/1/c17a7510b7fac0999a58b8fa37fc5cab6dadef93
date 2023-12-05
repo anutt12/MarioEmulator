@@ -1,5 +1,17 @@
 
+Q
+java:S3740#"/Provide the parametrized type for this generic.(Ì±İ–ûÿÿÿÿ8Ìûã¾Ã1
 x
-java:S1104"VMake gameObject a static final constant or non-public and provide accessors if needed.(àú…Ÿúÿÿÿÿ8²ôÌğ¾1
+java:S1104"VMake gameObject a static final constant or non-public and provide accessors if needed.(àú…Ÿúÿÿÿÿ8Ìûã¾Ã1
 R
-java:S2065"0Remove the "transient" modifier from this field.(àú…Ÿúÿÿÿÿ8êÆ‚±Ã1
+java:S2065"0Remove the "transient" modifier from this field.(àú…Ÿúÿÿÿÿ8Ïûã¾Ã1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ü¡áÈ8Ğûã¾Ã1
+I
+java:S3011!",This accessibility update should be removed.(˜ÂÓ˜8Òûã¾Ã1
+N
+java:S3011+",This accessibility bypass should be removed.(áîúÜøÿÿÿÿ8Óûã¾Ã1
+N
+java:S30111",This accessibility bypass should be removed.(á‰Å¹øÿÿÿÿ8Óûã¾Ã1
+I
+java:S30117",This accessibility bypass should be removed.(øŞƒš8Óûã¾Ã1

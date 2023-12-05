@@ -1,5 +1,6 @@
 package jade;
 
+import components.RigidBody;
 import components.Sprite;
 import components.SpriteRenderer;
 import components.SpriteSheet;
@@ -23,6 +24,7 @@ public class LevelEditorScene extends Scene {
         loadResources();
         this.camera = new Camera(new Vector2f());
         if (levelLoaded) {
+            this.activeGameObject = gameObjects.get(0);
             return;
         }
 
@@ -33,8 +35,8 @@ public class LevelEditorScene extends Scene {
         SpriteRenderer obj1Sprite = new SpriteRenderer();
         obj1Sprite.setColor(new Vector4f(1, 0, 0, 1));
         obj1.addComponent(obj1Sprite);
+        obj1.addComponent(new RigidBody());
         this.addGameObjectToScene(obj1);
-        this.activeGameObject = obj1;
 
         obj2 = new GameObject("Object 2",
                 new Transform(new Vector2f(400, 100), new Vector2f(256, 256)), 2);
@@ -70,7 +72,8 @@ public class LevelEditorScene extends Scene {
     private void loadResources() {
 
         AssetPool.getShader("assets/shaders/default.glsl");
-
+        AssetPool.getTexture("assets/images/blendImage2.png");
+        
         AssetPool.addSpriteSheet("assets/images/spritesheet.png",
                 new SpriteSheet(AssetPool.getTexture("assets/images/spritesheet.png"),
                         16, 16, 26, 0));

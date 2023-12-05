@@ -1,5 +1,6 @@
 package jade;
 
+import editor.GameViewWindow;
 import imgui.*;
 import imgui.callback.ImStrConsumer;
 import imgui.callback.ImStrSupplier;
