@@ -1,12 +1,22 @@
 
 k
 java:S2095’"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(€ªµ¾8Ò£ŒãÁ1
+]	java:S125""<This block of commented-out lines of code should be removed.(º×³µùÿÿÿÿ8òâÆ€Ä1
+W	java:S125$"<This block of commented-out lines of code should be removed.(‰÷‚D8¬ÚÇ€Ä1
+X	java:S125)"<This block of commented-out lines of code should be removed.(á‘îç8ÄÿÆ€Ä1
+X	java:S125+"<This block of commented-out lines of code should be removed.(´èý¼8Ê¢Ç€Ä1
 t
-java:S37763"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ù¹ÊÁÿÿÿÿÿ8ÛŒáÁ1
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ù¹ÊÁÿÿÿÿÿ8ÛŒáÁ1
+X	java:S125u"<This block of commented-out lines of code should be removed.(¡Õ±š8ìçÈ€Ä1
 d
 java:S1075¡"ARefactor your code to get this URI from a customizable parameter.(âÅÄ­þÿÿÿÿ8ö©°âÁ1
 Y	java:S125¾"<This block of commented-out lines of code should be removed.(²‚ÇÑ8‘ŒáÁ1
+Y	java:S125À"<This block of commented-out lines of code should be removed.(Ì³±¶8«úÉ€Ä1
 N
 java:S1172Æ"0Remove this unused method parameter "deltaTime".(…Ð²†8…‘ŒáÁ1
+^	java:S125÷"<This block of commented-out lines of code should be removed.(üä£Þÿÿÿÿÿ8“Ë€Ä1
+^	java:S125ü"<This block of commented-out lines of code should be removed.(€¤Ñëúÿÿÿÿ8ÅãÊ€Ä1
+G
+java:S1068#"+Remove this unused "menuBar" private field.(“Æo8‘“Ë€Ä1
 T
 java:S1144Ý"1Remove this unused private "destroyImGui" method.(Í©äÛøÿÿÿÿ8Œ‘ŒáÁ1

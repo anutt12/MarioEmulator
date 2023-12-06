@@ -1,14 +1,10 @@
 
-€
-java:S1192"^Define a constant instead of duplicating this literal "assets/images/spritesheet.png" 3 times.(†Ã£Şøÿÿÿÿ8­Ğë¾Ã1
+‘
+java:S1192"tDefine a constant instead of duplicating this literal "assets/images/spritesheets/decorationsAndBlocks.png" 3 times.(óÓÀÂ8ÇÂ¿€Ä1
 
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûÅ¼,8µĞë¾Ã1
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûÅ¼,8ËÂ¿€Ä1
 u
-java:S1450"SRemove the "obj1" field and declare it as a local variable in the relevant methods.(ª¹§ñúÿÿÿÿ8¶Ğë¾Ã1
+java:S1450"SRemove the "obj1" field and declare it as a local variable in the relevant methods.(ª¹§ñúÿÿÿÿ8ÌÂ¿€Ä1
 p
-java:S1450"SRemove the "obj2" field and declare it as a local variable in the relevant methods.(—ÑÙ8¶Ğë¾Ã1
-s
-java:S1450"VRemove the "sprites" field and declare it as a local variable in the relevant methods.(‚Œ·8¶Ğë¾Ã1
-X	java:S1252"<This block of commented-out lines of code should be removed.(İÔş8ÁĞë¾Ã1
-H
-java:S1068"+Remove this unused "sprites" private field.(‚Œ·8ÃĞë¾Ã1
+java:S1450"SRemove the "obj2" field and declare it as a local variable in the relevant methods.(—ÑÙ8ÌÂ¿€Ä1
+X	java:S1252"<This block of commented-out lines of code should be removed.(İÔş8ÓÂ¿€Ä1

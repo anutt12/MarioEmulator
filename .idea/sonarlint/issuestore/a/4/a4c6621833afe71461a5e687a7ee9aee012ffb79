@@ -1,16 +1,19 @@
 
 Q
-java:S1066,"/Merge this if statement with the enclosing one.(ÿİÏùÿÿÿÿ8®›©÷¼1
+java:S1066."/Merge this if statement with the enclosing one.(ÿİÏùÿÿÿÿ8ÿæĞÄ1
 G
-java:S1659	"%Declare "scrollY" on a separate line.(©¿ò¬şÿÿÿÿ8¹›©÷¼1
+java:S1659"%Declare "scrollY" on a separate line.(©¿ò¬şÿÿÿÿ8…çĞÄ1
 c
-java:S1659
-"ADeclare "yPos" and all following declarations on a separate line.(©ú€“üÿÿÿÿ8¹›©÷¼1
+java:S1659"ADeclare "yPos" and all following declarations on a separate line.(©ú€“üÿÿÿÿ8…çĞÄ1
 L
-java:S1197"*Move the array designators [] to the type.(åœÊæıÿÿÿÿ8º›©÷¼1
+java:S1197"*Move the array designators [] to the type.(åœÊæıÿÿÿÿ8†çĞÄ1
 O
-java:S1172"-Remove this unused method parameter "window".(ÌşÏûùÿÿÿÿ8»›©÷¼1
+java:S1172 "-Remove this unused method parameter "window".(ÌşÏûùÿÿÿÿ8‡çĞÄ1
 Y
-java:S1172&"7Remove these unused method parameters "window", "mods".(“ôÊöşÿÿÿÿ8¼›©÷¼1
+java:S1172("7Remove these unused method parameters "window", "mods".(“ôÊöşÿÿÿÿ8ˆçĞÄ1
 J
-java:S11723"-Remove this unused method parameter "window".(ş¿ïó8½›©÷¼1
+java:S11725"-Remove this unused method parameter "window".(ş¿ïó8‰çĞÄ1
+D
+java:S1905K"(Remove this unnecessary cast to "float".(ùüõ78ŠçĞÄ1
+J
+java:S1905T"(Remove this unnecessary cast to "float".(µûîßÿÿÿÿÿ8©ÜÙÄ1

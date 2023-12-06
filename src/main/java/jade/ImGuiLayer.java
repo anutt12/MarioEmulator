@@ -31,16 +31,16 @@ public class ImGuiLayer {
     private final ImGuiImplGlfw imGuiGlfw = new ImGuiImplGlfw();
 
     private GameViewWindow gameViewWindow;
-    private PropertiesWindow propertiesWindow;
+//    private PropertiesWindow propertiesWindow;
     private MenuBar menuBar;
-    private SceneHierarchyWindow sceneHeirarchyWindow;
+//    private SceneHierarchyWindow sceneHeirarchyWindow;
 
     public ImGuiLayer(long glfwWindow) {
         this.glfwWindow = glfwWindow;
         this.gameViewWindow = new GameViewWindow();
-        this.propertiesWindow = new PropertiesWindow(pickingTexture);
+//        this.propertiesWindow = new PropertiesWindow(pickingTexture);
         this.menuBar = new MenuBar();
-        this.sceneHeirarchyWindow = new SceneHierarchyWindow();
+//        this.sceneHeirarchyWindow = new SceneHierarchyWindow();
     }
 
     public GameViewWindow getGameViewWindow() {
@@ -114,8 +114,8 @@ public class ImGuiLayer {
             io.setMouseWheel(io.getMouseWheel() + (float) yOffset);
             if (!io.getWantCaptureMouse() || gameViewWindow.getWantCaptureMouse()) {
                 MouseListener.mouseScrollCallback(w, xOffset, yOffset);
-            } else {
-                MouseListener.clear();
+//            } else {
+//                MouseListener.clear();
             }
         });
 
@@ -189,8 +189,8 @@ public class ImGuiLayer {
         currentScene.imgui();
         //ImGui.showDemoWindow();
         gameViewWindow.imgui();
-        propertiesWindow.imgui();
-        sceneHeirarchyWindow.imgui();
+//        propertiesWindow.imgui();
+//        sceneHeirarchyWindow.imgui();
 
         endFrame();
     }
@@ -243,13 +243,13 @@ public class ImGuiLayer {
 
         // Dockspace
         ImGui.dockSpace(ImGui.getID("Dockspace"));
-
-        menuBar.imgui();
+//
+//        menuBar.imgui();
 
         ImGui.end();
     }
 
-    public PropertiesWindow getPropertiesWindow() {
-        return this.propertiesWindow;
-    }
+//    public PropertiesWindow getPropertiesWindow() {
+//        return this.propertiesWindow;
+//    }
 }
